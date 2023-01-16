@@ -13,7 +13,7 @@
 ## :mailbox: Contatos 
 
 <div align="center">
-<a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/milenamaced/)"><img height="40" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/linkedIn.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/milenamaced/"><img height="40" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/linkedIn.png"></a>&nbsp;&nbsp;
 <a href="milenasantosmcd@gmail.com"><img height="40" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/milenamcd"><img height="33" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/telegram.svg"></a>&nbsp;&nbsp;
   
