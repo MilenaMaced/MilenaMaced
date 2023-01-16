@@ -19,8 +19,8 @@
 ## 🙈 Sobre mim 
 - 🎯 Mentes paradas não evoluem  
 - 🔨 Estou aprendendo análise de dados e estatística
-- 💻 Dev JAVA
-- 📘  Lendo Data Science do Zero
+- 💻 Dev Back-end JAVA 
+- 📘  Estou lendo Data Science do Zero
 - 🎲 "Converse com os dados, que eles te contaram tudo."
 
 ## 🛠 Linguagens/Ferramentas 
