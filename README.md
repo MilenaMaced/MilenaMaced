@@ -7,7 +7,7 @@
  </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Data Science - Data Analytics -  Back-end developer JAVA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Data Science - Data Analytics -  Developer JAVA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
 </div>
 
 ## :mailbox: Contatos 
@@ -38,10 +38,13 @@
   <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/tensorflow.svg" width="40"> 
   <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/panda.svg" width="90"> 
   
-  <h4> - Back-end developer JAVA  </h4>
+  <h4> - Developer JAVA  </h4>
   <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/spring.svg" width="35"> 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css"  width="180" />
+  </a>
 </div>
 
-
+ 
