@@ -11,8 +11,8 @@
 </div>
 
 <p align='center'>
-   <a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/milenamaced/)"><img height="35" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/linkedIn.png"></a>&nbsp;&nbsp;
-<a href="milenasantosmcd@gmail.com"><img height="35" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/gmail.png"></a>&nbsp;&nbsp;
+   <a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/milenamaced/)"><img height="35" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/linkedIn.png"></a>&nbsp;&nbsp;
+<a href="milenasantosmcd@gmail.com"><img height="35" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/gmail.png"></a>&nbsp;&nbsp;
  </p>
 
 
@@ -27,16 +27,16 @@
 <div>
  
   <h4> - Data Science e Data Analytics  </h4>
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/python.svg" width="35">
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/scikit-learn.svg" width="50">
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/matplotlib.svg" width="80"> 
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/power-bi.svg" width="80"> 
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/jupyter.svg" width="40"> 
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/tensorflow.svg" width="40"> 
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/panda.svg" width="90"> 
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/python.svg" width="35">
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/scikit-learn.svg" width="50">
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/matplotlib.svg" width="80"> 
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/power-bi.svg" width="80"> 
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/jupyter.svg" width="40"> 
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/tensorflow.svg" width="40"> 
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/panda.svg" width="90"> 
   
   <h4> - Back-end developer JAVA  </h4>
-  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/spring.svg" width="35"> 
+  <img src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/spring.svg" width="35"> 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
