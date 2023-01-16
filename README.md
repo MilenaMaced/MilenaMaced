@@ -10,11 +10,14 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Data Science - Data Analytics -  Back-end developer JAVA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
 </div>
 
-<p align='center'>
-   <a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/milenamaced/)"><img height="35" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/linkedIn.png"></a>&nbsp;&nbsp;
-<a href="milenasantosmcd@gmail.com"><img height="35" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/gmail.png"></a>&nbsp;&nbsp;
- </p>
+## :mailbox: Contatos 
 
+<div align="center">
+<a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/milenamaced/)"><img height="40" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/linkedIn.png"></a>&nbsp;&nbsp;
+<a href="milenasantosmcd@gmail.com"><img height="40" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/gmail.png"></a>&nbsp;&nbsp;
+<a href="https://t.me/milenamcd"><img height="33" src="https://github.com/MilenaMaced/MilenaMaced/blob/main/imagens/telegram.svg"></a>&nbsp;&nbsp;
+  
+</div>
 
 ## 🙈 Sobre mim 
 - 🎯 Mentes paradas não evoluem  
@@ -40,3 +43,5 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
+
+
